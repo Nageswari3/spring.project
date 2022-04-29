@@ -1,0 +1,14 @@
+mobile wallet
+{
+        "accountNumber": 56346,
+        "username": "nandhu",
+        "password": "2223",
+        "role": "admin",
+        "balance": 45600,
+        "userDeatils": {
+            "mobileNumber": 8645347,
+            "email": "nandhu@gmqail.com",
+            "name": "nandhu"
+        },
+        "min_BALANCE": 10000
+    }
